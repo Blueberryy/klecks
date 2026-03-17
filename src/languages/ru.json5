@@ -1501,7 +1501,7 @@
   },
   'select-transform-warp': {
     original: 'Warp',
-    value: ''
+    value: 'Деформация'
   },
   'select-transform-clone': {
     original: 'Clone',
